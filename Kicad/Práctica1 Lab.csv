@@ -1,0 +1,15 @@
+"Source:","C:\Users\ramir\OneDrive\Universidad\2024 Vaqueros Junio\Práctica1 Lab\Práctica1 Lab.kicad_sch"
+"Date:","7/06/2024 03:03:12"
+"Tool:","Eeschema 7.0.10"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","J1","Conn_01x02_Socket","Connector:Conn_01x02_Socket","","~",""
+"2","1","J2","Conn_01x04_Socket","Connector:Conn_01x04_Socket","","~",""
+"3","1","J3","Conn_01x01_Socket","Connector:Conn_01x01_Socket","","~",""
+"4","1","U1","74LS08","74xx:74LS08","","http://www.ti.com/lit/gpn/sn74LS08",""
+"5","1","U2","74LS32","74xx:74LS32","","http://www.ti.com/lit/gpn/sn74LS32",""
+"6","1","U3","74LS04","74xx:74LS04","","http://www.ti.com/lit/gpn/sn74LS04",""
